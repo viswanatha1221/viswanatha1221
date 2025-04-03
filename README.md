@@ -24,6 +24,7 @@
 
 ![Viswanatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viswanatha1221&show_icons=true&theme=radical)
 
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Viswanatha Reddy Kandanuru](https://www.linkedin.com/in/viswanathakanda1221/)
@@ -31,6 +32,7 @@
 
 Feel free to reach out for collaborations or discussions on DevOps, cloud technologies, and automation!
 
+![Profile Views](https://komarev.com/ghpvc/?username=viswanatha1221&color=blue)
 ---
 
  
