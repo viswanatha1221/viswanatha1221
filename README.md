@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Viswanatha Reddy K!
 
-🚀 **Senior DevOps Engineer** with extensive experience in architecting and implementing robust CI/CD pipelines, automating infrastructure, and enhancing system reliability. Passionate about integrating security into DevOps practices (DevSecOps) and leveraging cutting-edge technologies to drive efficiency.
+🚀 **Senior SRE DevOps Engineer** with extensive experience in architecting and implementing robust CI/CD pipelines, automating infrastructure, and enhancing system reliability. Passionate about integrating security into DevOps practices (DevSecOps) and leveraging cutting-edge technologies to drive efficiency.
 
 ## 🔧 Technologies & Tools
 
