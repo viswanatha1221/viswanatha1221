@@ -27,7 +27,7 @@
 
 ## 📫 Let's Connect
 
-- **My Portfolio:** [My Portfolio](viswanatha1221.github.io/portfolio/)
+- **My Portfolio:** [My Page](viswanatha1221.github.io/portfolio)
 - **LinkedIn:** [Viswanatha Reddy Kandanuru](https://www.linkedin.com/in/viswanathakanda1221/)
 - **Email:** viswanatha.kanda@gmail.com
 
